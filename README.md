@@ -9,12 +9,12 @@ Instead of basic stop-and-reverse mechanics, the rover employs a custom **"Spin-
 Here is a closer look at the rover's component assembly and wiring setup:
 
 <p align="center">
-  <img src="01.jpg" alt="Rover Setup 1" width="45%">
-  <img src="02.jpg" alt="Rover Setup 2" width="45%">
+  <img src="01.jpeg" alt="Rover Setup 1" width="45%">
+  <img src="02.jpeg" alt="Rover Setup 2" width="45%">
 </p>
 <p align="center">
-  <img src="03.jpg" alt="Rover Setup 3" width="45%">
-  <img src="04.jpg" alt="Rover Setup 4" width="45%">
+  <img src="03.jpeg" alt="Rover Setup 3" width="45%">
+  <img src="04.jpeg" alt="Rover Setup 4" width="45%">
 </p>
 
 ## 🌟 Key Features
