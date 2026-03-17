@@ -4,7 +4,7 @@ A compact, fully autonomous 4-wheel-drive rover built with an Arduino Uno and an
 
 Instead of basic stop-and-reverse mechanics, the rover employs a custom **"Spin-Scan"** decision-making algorithm and **skid-steering** logic to evaluate clearances on both sides before choosing the optimal escape route.
 
-## 📸 Hardware Showcase
+##  Hardware Showcase
 
 Here is a closer look at the rover's component assembly and wiring setup:
 
